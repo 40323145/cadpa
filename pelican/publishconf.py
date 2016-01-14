@@ -26,7 +26,7 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (('2015課程網頁', 'http://wordpress-2015course.rhcloud.com/'),
-         ('Python', 'http://python.org/'),)
+         ('Python', 'http://python.org/'),('全班協同倉儲', 'https://github.com/2015fallhw/2015fallcadpa/wiki'),)
 
 # Social widget
 SOCIAL = (('twitter', 'http://twitter.com/ametaireau'),
